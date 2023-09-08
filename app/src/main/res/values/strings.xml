@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ứng dụng BMI</string>
+    <string name="name_txthoten">Họ và tên : </string>
+    <string name="name_txtcannang">Cân nặng (kg) : </string>
+    <string name="name_txtchieucao">Chiều cao (m) : </string>
+    <string name="name_txtketqua">Kết quả : </string>
+    <string name="name_btnkiemtra">Kiểm tra</string>
+    <string name="name_btntiep">Tiếp</string>
+    <string name="name_btnthoat">Thoát</string>
+</resources>
