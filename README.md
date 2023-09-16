@@ -11,4 +11,4 @@
 - Nút nhấn "Kiểm tra" : Khi  người dùng nhập đầy đủ các thông tin họ và tên, cân nặng, chiều cao thì chương trình thông báo kết quả
 - Nút nhấn "Tiếp" : Thực hiện xoá trắng các EditText họ và tên, cân nặng, chiều cao
 - Nút nhấn "Thoát" : Thực hiện đóng ứng dụng
-#### Ngôn ngữ : Android Studio
+#### Ngôn ngữ : Android 
